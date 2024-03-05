@@ -21,7 +21,7 @@
 
 Обо мне :
 
-Я Front-end Stack разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Узбекистана 
+I'm Front-end Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Узбекистана 
 
 - :telescope: Я работаю инженером-программистом и занимаюсь разработкой внешнего интерфейса для создания веб-приложений.
 
