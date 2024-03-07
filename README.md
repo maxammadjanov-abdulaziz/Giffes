@@ -23,13 +23,13 @@
 
 I'm Front-end Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan
 
-- :telescope: Я работаю инженером-программистом и занимаюсь разработкой внешнего интерфейса для создания веб-приложений.
+- :telescope: I'm learning to be an SEO developer and working on a project.
 
 - :seedling: Изучение написания технического контента.
 
 - :zap: В свободное время решаю задачи на GeeksforGeeks и читаю технические статьи.
 
-- :mailbox:Как со мной связаться: [![Значок Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](ваш-linkedin-url)
+- :mailbox:Как со мной связаться: [![Значок Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-makhamadjonov-5850b52a9/)
 
 
 ---
